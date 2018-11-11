@@ -9,4 +9,8 @@ public class Tiger extends  CatsFamily {
     public void makeNoise() {
         System.out.println("Roarrrrrr");
     }
+
+    public boolean isCanMeow() {
+        return false;
+    }
 }

@@ -9,4 +9,8 @@ public class Wolf extends DogsFamily {
     public void makeNoise() {
         System.out.println("Auuuuuuuuuuuu");
     }
+
+    public boolean isLivesInGroup() {
+        return true;
+    }
 }

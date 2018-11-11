@@ -3,10 +3,10 @@ package example.animals;
 
 import example.Animal;
 
-public class Hippo extends Animal {
+public class Horse extends Animal {
 
     @Override
     public void makeNoise() {
-        System.out.println("Hipo ?!?!?!");
+        System.out.println("icha icha icha");
     }
 }
