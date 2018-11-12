@@ -10,7 +10,7 @@ public class Lion extends CatsFamily {
         System.out.println("RoarrrrrrRoarrrrrr");
     }
 
-    public boolean isCanMeow() {
-        return false;
+    public void isCanMeow() {
+        System.out.println("No ! This animal can't meow !");
     }
 }

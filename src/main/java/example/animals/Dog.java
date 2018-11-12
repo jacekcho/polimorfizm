@@ -12,7 +12,7 @@ public class Dog extends DogsFamily implements Pet {
     }
 
     public void favoritePlaceInHome() {
-        System.out.println("garden");
+        System.out.println("Favorite place in home: garden");
     }
 
     public boolean isLivesInGroup() {
